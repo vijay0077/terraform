@@ -18,3 +18,6 @@ variable "AMI2" {
   default = "ami-02eac2c0129f6376b"
 }
 
+variable "REGION" {
+    default = ""
+    }
