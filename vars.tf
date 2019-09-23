@@ -19,5 +19,6 @@ variable "AMI2" {
 }
 
 variable "REGION" {
-    default = ""
+    default = "us-east-1"
     }
+
